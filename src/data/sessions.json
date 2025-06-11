@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "title": "Morning Focus",
+    "description": "Start your day with clarity and energy.",
+    "duration": 10,
+    "category": "Focus",
+    "audio": "/audio/focus1.mp3"
+  },
+  {
+    "id": "2",
+    "title": "Deep Work",
+    "description": "Enhance concentration for work or study.",
+    "duration": 25,
+    "category": "Focus",
+    "audio": "/audio/focus2.mp3"
+  },
+  {
+    "id": "3",
+    "title": "Calm Mind",
+    "description": "Reduce anxiety and find peace.",
+    "duration": 15,
+    "category": "Anxiety",
+    "audio": "/audio/anxiety1.mp3"
+  },
+  {
+    "id": "4",
+    "title": "Stress Relief",
+    "description": "Let go of stress and tension.",
+    "duration": 20,
+    "category": "Anxiety",
+    "audio": "/audio/anxiety2.mp3"
+  },
+  {
+    "id": "5",
+    "title": "Evening Relaxation",
+    "description": "Unwind and relax after a long day.",
+    "duration": 12,
+    "category": "Relax",
+    "audio": "/audio/relax1.mp3"
+  },
+  {
+    "id": "6",
+    "title": "Gentle Waves",
+    "description": "Soothing sounds for deep relaxation.",
+    "duration": 18,
+    "category": "Relax",
+    "audio": "/audio/relax2.mp3"
+  },
+  {
+    "id": "7",
+    "title": "Sleep Journey",
+    "description": "Drift into restful sleep.",
+    "duration": 30,
+    "category": "Sleep",
+    "audio": "/audio/sleep1.mp3"
+  },
+  {
+    "id": "8",
+    "title": "Night Calm",
+    "description": "Calm your mind before bed.",
+    "duration": 20,
+    "category": "Sleep",
+    "audio": "/audio/sleep2.mp3"
+  }
+] 
